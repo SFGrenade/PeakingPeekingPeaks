@@ -35,4 +35,7 @@
         <None Include="LICENSE" />
         <None Include="README.md" />
     </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="../SFCore/SFCore.csproj" />
+    </ItemGroup>
 </Project>

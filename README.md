@@ -1,6 +1,6 @@
-# Name
+# Peaking Peeking Peaks
 
-This is a library for mods aiming to add custom achievements, items and charms to the game.
+This mods aims to make the Crystal Peak more memorable.
 
 # EUPL
                       Copyright (c) 2024 SFGrenade
