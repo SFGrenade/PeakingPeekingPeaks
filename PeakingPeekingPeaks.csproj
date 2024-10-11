@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>net472</TargetFramework>
-        <Product>Name</Product>
-        <RootNamespace>Name</RootNamespace>
-        <AssemblyName>Name</AssemblyName>
-        <AssemblyTitle>Name</AssemblyTitle>
-        <Description>A Mod Library</Description>
+        <Product>PeakingPeekingPeaks</Product>
+        <RootNamespace>PeakingPeekingPeaks</RootNamespace>
+        <AssemblyName>PeakingPeekingPeaks</AssemblyName>
+        <AssemblyTitle>PeakingPeekingPeaks</AssemblyTitle>
+        <Description>A Hollow Knight mod</Description>
         <Copyright>Copyright © SFGrenade 2024</Copyright>
-        <AssemblyVersion>1.5.11.2</AssemblyVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
         <FileVersion>$(AssemblyVersion)</FileVersion>
         <ImplicitUsings>false</ImplicitUsings>
         <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
